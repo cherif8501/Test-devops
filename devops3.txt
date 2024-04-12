@@ -2,5 +2,3 @@ c'est le 3eme test sur git
 test
 test
 test
-test
-test
